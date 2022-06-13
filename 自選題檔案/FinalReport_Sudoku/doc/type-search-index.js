@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"Sudoku","l":"SudokuPanel.NumberListener"},{"p":"Sudoku","l":"SudokuPanel.StopListener"},{"p":"Sudoku","l":"SudokuBoard"},{"p":"Sudoku","l":"SudokuFrame"},{"p":"Sudoku","l":"SudokuGenerator"},{"p":"Sudoku","l":"SudokuPanel"}]
